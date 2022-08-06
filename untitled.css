@@ -1,0 +1,22 @@
+html,body{
+	background-image: url(5.jpg);
+	background-size: cover;
+}
+.container{
+	text-align: center;
+}
+
+
+}
+a>button{
+	padding: 50px;
+	border-radius: 500px;
+	line-height: 500px;
+	
+}
+h2{
+	color: #5e5e0d;
+	font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oleo Script Swash Caps', cursive;
+
+}
